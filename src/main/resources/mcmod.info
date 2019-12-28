@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bookdupe",
+  "name": "Book Dupe",
+  "description": "Mod feito para dupar com livros em servidores vulneraveis :D",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://bastonbolado.club",
+  "updateUrl": "",
+  "authorList": ["BastonBolado"],
+  "credits": "A mim, pois sou um DEUS nesse joguinho.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
